@@ -27,3 +27,5 @@ dist/
 nbdist/
 nbactions.xml
 .nb-gradle/
+.project
+.classpath

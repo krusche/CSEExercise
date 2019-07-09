@@ -1,8 +1,8 @@
-package de.tum.in.www1.cse.exercise;
+package de.tum.in.ase.cse.exercise;
 
 import java.util.Date;
 
-import de.tum.in.www1.cse.exercise.model.Trip;
+import de.tum.in.ase.cse.exercise.model.Trip;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;
@@ -38,7 +38,7 @@ public class HelloWorldApp extends Application {
         primaryStage.show();
     }
 
-	public static void main(String[] args) {
+	public static void startApp(String[] args) {
         launch(args);
     }
 }

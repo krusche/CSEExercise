@@ -6,6 +6,8 @@ import java.util.Date;
 
 import org.junit.Test;
 
+import de.tum.in.ase.cse.exercise.model.Trip;
+
 public class TripTest {
 
 	@Test

@@ -1,4 +1,4 @@
-package de.tum.in.www1.cse.exercise.model;
+package de.tum.in.ase.cse.exercise.model;
 
 import java.util.Date;
 
