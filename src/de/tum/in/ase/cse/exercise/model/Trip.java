@@ -25,5 +25,6 @@ public class Trip {
 
 	public Trip(Date startDate, String destination) {
 		this.setStartDate(startDate);
+		this.setDestination(destination);
 	}
 }
